@@ -7,3 +7,9 @@ History
 ---------------------
 
 * First code creation
+
+
+0.1.0 (28-01-2020)
+------------------
+
+* First release of artifact with no code in. Crap.
