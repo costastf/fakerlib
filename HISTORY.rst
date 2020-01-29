@@ -19,3 +19,9 @@ History
 ------------------
 
 * First release with some actual code in.
+
+
+1.1.0 (29-01-2020)
+------------------
+
+* testing out tagging capabilities
